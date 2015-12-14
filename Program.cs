@@ -11,6 +11,7 @@ namespace Cs_Project01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
+            Console.WriteLine("Hello Andriian!");
             Console.ReadKey();
         }
     }

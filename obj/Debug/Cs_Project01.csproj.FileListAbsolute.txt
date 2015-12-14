@@ -4,3 +4,9 @@ F:\Робота\Проект SoftServe\Курси\Project_Git\Cs_Project01\Cs_Pr
 F:\Робота\Проект SoftServe\Курси\Project_Git\Cs_Project01\Cs_Project01\obj\Debug\Cs_Project01.csprojResolveAssemblyReference.cache
 F:\Робота\Проект SoftServe\Курси\Project_Git\Cs_Project01\Cs_Project01\obj\Debug\Cs_Project01.exe
 F:\Робота\Проект SoftServe\Курси\Project_Git\Cs_Project01\Cs_Project01\obj\Debug\Cs_Project01.pdb
+F:\Project_Git\Cs_Project01\Cs_Project01\bin\Debug\Cs_Project01.exe.config
+F:\Project_Git\Cs_Project01\Cs_Project01\obj\Debug\Cs_Project01.exe
+F:\Project_Git\Cs_Project01\Cs_Project01\obj\Debug\Cs_Project01.pdb
+F:\Project_Git\Cs_Project01\Cs_Project01\bin\Debug\Cs_Project01.exe
+F:\Project_Git\Cs_Project01\Cs_Project01\bin\Debug\Cs_Project01.pdb
+F:\Project_Git\Cs_Project01\Cs_Project01\obj\Debug\Cs_Project01.csprojResolveAssemblyReference.cache
